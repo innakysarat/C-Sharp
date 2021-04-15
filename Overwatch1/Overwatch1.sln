@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overwatch1", "Overwatch1\Overwatch1.csproj", "{6FBF5A78-D9F4-46CF-9087-A4D54131A3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overwatch_1", "Overwatch_1\Overwatch_1.csproj", "{4C1BA8DB-C197-47F9-94D1-9C4ACB6929ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBF5A78-D9F4-46CF-9087-A4D54131A3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBF5A78-D9F4-46CF-9087-A4D54131A3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBF5A78-D9F4-46CF-9087-A4D54131A3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBF5A78-D9F4-46CF-9087-A4D54131A3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1BA8DB-C197-47F9-94D1-9C4ACB6929ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1BA8DB-C197-47F9-94D1-9C4ACB6929ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1BA8DB-C197-47F9-94D1-9C4ACB6929ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1BA8DB-C197-47F9-94D1-9C4ACB6929ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {461D5AEA-9BA7-4A1D-8F76-364E8EF898CC}
+	EndGlobalSection
+EndGlobal

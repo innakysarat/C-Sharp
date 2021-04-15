@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<game>
+  <Heroes>
+    <hero name="Ana Grenade">
+      <DamagePerSecond>0</DamagePerSecond>
+      <HeadshotDPS>0</HeadshotDPS>
+      <SingleShot>60</SingleShot>
+      <Life>95</Life>
+      <Reload>1</Reload>
+    </hero>
+  </Heroes>
+  <Heroes>
+    <hero name="Torbjorn Molten RM">
+      <DamagePerSecond>262.5</DamagePerSecond>
+      <HeadshotDPS>525</HeadshotDPS>
+      <SingleShot>150</SingleShot>
+      <Life>500</Life>
+      <Reload>0</Reload>
+    </hero>
+  </Heroes>
+</game>
